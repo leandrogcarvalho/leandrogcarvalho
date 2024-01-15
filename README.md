@@ -9,11 +9,12 @@
 
 ##
 <h4 align="center">
-<img align="center"  height="350" alt="gif-Leandro" src="https://raw.githubusercontent.com/leandrogcarvalho/leandrogcarvalho.github.io/main/fundo.gif">
+<img align="center"  height="350" alt="gif-Leandro" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
 
  
 <h4 align="center">
   <a href="https://github.com/leandrogcarvalho">
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=leandrogcarvalho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogcarvalho&layout=compact&langs_count=7&theme=midnight-purple"/> </h4>
  
  
