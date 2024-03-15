@@ -9,6 +9,11 @@
 
 ##
 <h4 align="center">
+  
+   <a href = "mailto:leandrogcarvalho2005@gmail.com/"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leandro-gon%C3%A7alves-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h4 align="center">
 <img align="center"  height="350" alt="gif-Leandro" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
 
  
