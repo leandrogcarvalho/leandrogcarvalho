@@ -1,10 +1,10 @@
 ## Olá, eu sou Leandro
 
--  Desenvolvedor Web Full-Stack Júnior 👩‍💻
--  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | JavaScript 💻 | React ⚛️ | typeScript
--  Cursando: Curso Técnico <a href= "https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE">Trybe </a> - término previsto para maio/2024 <a href="https://www.linkedin.com/school/betrybe/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
+- Desenvolvedor Web Full-Stack Júnior 👩‍💻
+- JavaScript 💻 | React ⚛️ | TypeScript | Sql 🐬 | Spring 🍃 |  Docker🐬 & Estudando Java ☕
+- Cursando a Formação da <a href= "https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE">Trybe </a> - término previsto para maio/2024 <a href="https://www.linkedin.com/school/betrybe/" target="_blank"></a>
 
--  Meu nome é Leandro Gonçalves Carvalho, Após a conclusão do curso técnico em administração, minha trajetória foi naturalmente atraída pela tecnologia, influenciada por referências familiares na área. Esse encontro fortuito me inspirou a perseguir meu sonho de explorar o vasto campo da tecnologia.
+  Meu nome é Leandro Gonçalves Carvalho, Após a conclusão do curso técnico em administração, minha trajetória foi naturalmente atraída pela tecnologia, influenciada por referências familiares na área. Esse encontro fortuito me inspirou a perseguir meu sonho de explorar o vasto campo da tecnologia.
 
 
 ##
